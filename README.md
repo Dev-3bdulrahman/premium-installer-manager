@@ -20,10 +20,6 @@ composer require dev3bdulrahman/premium-installer-manager
 
 ## Usage
 
-Once installed, you can start using the Laravel Installer by following the setup instructions provided by the package.
-
-
-use Dev3bdulrahman\PremiumInstaller\InstallerManager;
 
 // Implementation details will be provided in the documentation
 
