@@ -1,5 +1,5 @@
 # Premium Installer Manager
-
+<p align="center"><img src="/assets/images/premium installer manager.png" alt="Social Card of Laravel Permission"></p>
 premium installer manager is a Laravel package for installation and configuration of 3bdulrahman premium projects and plugins. This package provides essential tools to help you set up and configure Laravel applications with ease.
 
 ## Features
