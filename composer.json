@@ -1,0 +1,30 @@
+{
+    "name": "dev3bdulrahman/premium-installer-manager",
+    "description": "dev3bdulrahman/premium-installer-manager A Laravel package for installation and configuration of 3bdulrahman premium projects and plugins.",
+    "type": "library",
+    "require": {
+	"laravel/framework": "^9|^10|^11"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dev3bdulrahman\\PremiumInstaller\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dev-3bdulrahman",
+            "email": "me@3bdulrahman.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dev3bdulrahman\\PremiumInstaller\\InstallerServiceProvider"
+            ]
+        }
+    },
+    "version": "1.0.0" 
+}
