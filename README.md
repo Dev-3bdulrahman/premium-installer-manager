@@ -8,7 +8,7 @@ premium installer manager is a Laravel package for installation and configuratio
 - **Configuration Management**: Easily manage and set up your application configurations.
 - **Environment Setup**: Automated environment setup and configuration.
 - **Database Configuration**: Simple database setup and management.
-- **Laravel Compatibility**: Fully compatible with Laravel 8.x and above.
+- **Laravel Compatibility**: Fully compatible with Laravel 11.x and above.
 
 ## Installation
 
